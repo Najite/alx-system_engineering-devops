@@ -1,0 +1,1 @@
+- e #!bin/bash\nls -la > ls_cwd_content
